@@ -1,0 +1,26 @@
+.App{
+  border: 2px solid rgb(212, 212, 156);
+  background-color: antiquewhite;
+  margin: 20px 10px 5px 2px ;
+  padding : 20px
+}
+.footer{
+  border: 2px solid hsl(60, 24%, 18%) ;
+  background-color: oklch(90.845% 0.03501 205.643);
+  margin: 5px;
+  padding: 60px
+  
+  
+}
+#btn{
+background-color: fuchsia;
+color: lightyellow;
+margin: 20px 20px ;
+border: none;
+padding: 5px 20px;
+border-radius: 5px;
+border: none ;
+font-size: large;
+font-weight: 100;
+cursor: pointer;
+}

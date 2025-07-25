@@ -1,0 +1,10 @@
+.AppContact {
+     border: 1px solid black;
+    margin:  1px ;
+    padding: 1px;
+    background-color: rgb(249, 251, 255);
+    padding: 10px;
+    text-align: center;
+    font: times new roman;
+    font-size: small;
+}
